@@ -22,4 +22,4 @@ Dans le cadre d'un travail scolaire, j'ai dû insérer une API dans un code JS.
 
 ## 🔗 Déploiement
 
-Voir mon projet : 
+Voir mon projet : https://shamizuken.github.io/CATS_API_PWF/
